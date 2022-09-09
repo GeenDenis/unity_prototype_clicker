@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 470be611049a40a4b5c96561fcb82504, type: 3}
+  m_Name: GamedevStudio
+  m_EditorClassIdentifier: 
+  _name: Gamedev Studio
+  _incomeDelay: 30
+  _basePrice: 5000
+  _baseIncome: 5000
+  _improvements:
+  - {fileID: 11400000, guid: 85e69386deca46040a1b15efa3dc7c37, type: 2}
+  - {fileID: 11400000, guid: 174a4a71d9de38e49af96f561865aa22, type: 2}
